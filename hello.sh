@@ -1,1 +1,2 @@
-Hello in Bash
+echo "Hello in Bash"
+echo "D-2 ..................."
